@@ -69,10 +69,10 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
+                  <Button tag="link" color="primary" wideMobile href="tel:8284036486">
                     Call Us
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
+                  <Button tag="link" color="dark" wideMobile href="oaklandhillsnc@gmail.com">
                     Email Us
                     </Button>
                 </ButtonGroup>
