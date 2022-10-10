@@ -72,7 +72,7 @@ const Hero = ({
                   <Button tag="link" color="primary" wideMobile href="tel:8284036486">
                     Call Us
                     </Button>
-                  <Button tag="link" color="dark" wideMobile href="oaklandhillsnc@gmail.com">
+                  <Button tag="link" color="dark" wideMobile href="mailto:oaklandhillsnc@gmail.com">
                     Email Us
                     </Button>
                 </ButtonGroup>
