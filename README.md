@@ -10,7 +10,7 @@ How It's Made:
 Tech used: HTML, CSS, JavaScript, Framework of choice
 https://red-berries986.netlify.app/
 
-![Alt text](https://i.postimg.cc/NG5WBxFb/captures-chrome-capture-2022-9-14.png)
+[![arrow-long.jpg](https://i.postimg.cc/DfQJB1df/arrow-long.jpg)](https://postimg.cc/Wt314FHx)
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write something. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
