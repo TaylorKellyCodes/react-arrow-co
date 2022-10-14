@@ -1,32 +1,18 @@
 My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+A one page, fully respinsive, quick loading site for a building supplies company. Focusing on rigid foam sales and simplicity.
 
-Link to project: http://recruiters-love-seeing-live-demos.com/
-
-https://i.postimg.cc/NG5WBxFb/captures-chrome-capture-2022-9-14.png
-alt tag
+Link to project: (https://www.arrowcoinsulation.com/)
 
 How It's Made:
-Tech used: HTML, CSS, JavaScript, Framework of choice
-https://red-berries986.netlify.app/
+Tech used: React, HTML, CSS, JavaScript
 
 [![arrow-long.jpg](https://i.postimg.cc/DfQJB1df/arrow-long.jpg)](https://postimg.cc/Wt314FHx)
 
+Front end only site using React Components, partials, webhooks, and HTML and CSS. Built this for a client that I have been working with for 4 years. They were just looking for a new look from their last site. 
+
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write something. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
-Optimizations
-(optional)
-
-You don't have to include this section but interviewers love that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are GREAT to bring up in interviews and you can use this section as reference when studying for technical interviews!
-
 Lessons Learned:
+Working with components definitely saved me a lot of time building this site and while I didn't need the partials, I went ahead and included them so I can easily add more pages if the client decides to expand their site to multiple pages.
+
 No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those whoa this is awesome or fuck yeah I did it! moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
-Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-Palettable: https://github.com/alecortega/palettable
-
-Twitter Battle: https://github.com/alecortega/twitter-battle
-
-Patch Panel: https://github.com/alecortega/patch-panel
