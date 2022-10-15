@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#0" onClick={closeMenu}>(828) 403-6486</Link>
+                      <a href="tel:8284036486" onClick={closeMenu}>(828) 403-6486</a>
                     </li>
                   </ul>
                   {!hideSignin &&
@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Email Us</Link>
+                        <a href="mailto:oaklandhillsnc@gmail.com" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Email Us</a>
                       </li>
                     </ul>}
                 </div>
