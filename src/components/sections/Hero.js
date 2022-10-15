@@ -67,12 +67,12 @@ const Hero = ({
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
                 Top quality building supplies delivered to you
                 </p>
-              <div className="reveal-from-bottom" data-reveal-delay="600">
+                <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="link" color="primary" wideMobile href="tel:8284036486">
+                  <Button tag="a" color="primary" wideMobile href="tel:8284036486">
                     Call Us
                     </Button>
-                  <Button tag="link" color="dark" wideMobile href="mailto:oaklandhillsnc@gmail.com">
+                  <Button tag="a" color="dark" wideMobile href="mailto:oaklandhillsnc@gmail.com">
                     Email Us
                     </Button>
                 </ButtonGroup>
